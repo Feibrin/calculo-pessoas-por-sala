@@ -24,5 +24,21 @@ int main(){
     
     cout << endl;
     
+    int max = 0, min = pessoas[0], max_idx = 1, min_idx = 1;
+    
+    for (int i = 0; i < n; i++) {
+        if (pessoas[i] > max) {
+            max = pessoas[i];
+            max_idx = i+1;
+        } 
+        if (pessoas[i] < min) {
+            min = pessoas[i];
+            min_idx = i+1;
+        }
+    }
+    
+    cout << "Sala com maior numero de alunos: " << max_idx << endl;
+    cout << "Sala com menor numero de alunos: " << min_idx << endl;
+    
     return 0;
 }

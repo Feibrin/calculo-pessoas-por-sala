@@ -26,3 +26,5 @@ int main(){
     
     return 0;
 }
+
+//a utilização do array foi útil pois ele armazena uma sequência de elementos do mesmo tipo em uma única variável, no caso, pra armazenar a quantidade de pessoas por sala//

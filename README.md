@@ -1,15 +1,11 @@
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+GitHub-100000
 
-Jogos Digitais 🎮
+# Projeto: Salas de Aula
+# (1 semestre) Jogos Digitais 🕹️
+# Status do Projeto: ✔️ Concluído
 
-Matéria:
-Introdução à Programação para Games 👨‍💻
-
-Tarefa:            
-Média de Alunos
-
-Status:
-Concluído ✔
+# Matéria:
+Introdução à Programação para Games 🎮
 
 Liguagem:
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+C++-00599C
